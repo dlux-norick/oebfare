@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
